@@ -1,0 +1,3 @@
+﻿  UI.cpp
+D:\Info\C++\POO\Laborator\Lab 8 - 11\GestiuneResurseEconomice\GestiuneResurseEconomice\UI.cpp(145): warning C4715: 'UI::login': not all control paths return a value
+  GestiuneResurseEconomice.vcxproj -> D:\Info\C++\POO\Laborator\Lab 8 - 11\GestiuneResurseEconomice\Debug\GestiuneResurseEconomice.exe
