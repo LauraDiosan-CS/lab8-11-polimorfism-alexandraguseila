@@ -1,0 +1,2 @@
+ResurseFin: cont 02.04.2020 500.000000 euro 
+ResurseFin: aur 01.01.2020 5000.000000 lei 

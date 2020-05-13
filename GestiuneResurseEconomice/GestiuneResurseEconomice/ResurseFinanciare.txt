@@ -1,0 +1,3 @@
+ResurseFin: petrol 04.05.2014 45.000000 euro 
+ResurseFin: gaz 14.09.2016 456.000000 dolari 
+ResurseFin: bronz 14.09.2016 45.000000 dolari 
